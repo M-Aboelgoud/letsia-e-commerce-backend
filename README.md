@@ -1,10 +1,10 @@
 
 
 # Running 
-Follow these steps to set up and run LOCAVO on your local machine:
+Follow these steps to set up and run on your local machine:
 
 ## 1. Import the Database
-1- In PHPMyAdmin, create a new database.
+1- In PHPMyAdmin, create a new database (shop).
 
 2- Import the SQL file from the Database folder into the newly created database.
 
